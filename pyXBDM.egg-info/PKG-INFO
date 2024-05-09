@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: pyXBDM
+Version: 0.0.1
+Summary: This package allows you to interact with an Xbox 360 Development Kit (XDK) using XBMD.xex
+Home-page: https://github.com/Xoro-1337/pyXBDM
+Author: Xoro
+Author-email: Xoro <xoro@x360labs.com>
+Project-URL: Homepage, https://github.com/Xoro-1337/pyXBDM
+Project-URL: Issues, https://github.com/Xoro-1337/pyXBDM
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: GNU General Public License v3.0
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# XBDM Python
+
+This package allows you to interact with a Xbox 360 Development Kit (XDK) remotely using __XBDM.xex__. 
+
+Visit [x360Labs Community](https://community.x360labs.com/) for more projects like this!

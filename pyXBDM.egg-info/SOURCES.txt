@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+pyXBDM/__init__.py
+pyXBDM/xbdm.py
+pyXBDM.egg-info/PKG-INFO
+pyXBDM.egg-info/SOURCES.txt
+pyXBDM.egg-info/dependency_links.txt
+pyXBDM.egg-info/top_level.txt
